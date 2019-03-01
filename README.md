@@ -1,2 +1,7 @@
-# haskell_study
-haskell study
+# Functional Programing Study
+### Members
+Lee Chanwoo Timothy
+Lee JeongRyeol 
+Kim Deahyun
+
+
