@@ -1,7 +1,7 @@
 # Functional Programing Study
 ### Members
-Lee Chanwoo Timothy
-Lee JeongRyeol 
-Kim Deahyun
+Lee Chanwoo Timothy <br>
+Lee JeongRyeol <br>
+Kim Deahyun <br>
 
 
